@@ -61,7 +61,7 @@ This portfolio serves as a personal branding site to showcase:
 
 ## 📁 Folder Structure (Proposed)
 
-```bash
+
 Portfolio-SGuruprasd/
 ├── public/
 │   ├── assets/
