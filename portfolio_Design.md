@@ -75,7 +75,8 @@ Portfolio-SGuruprasd/
 └── package.json
 ## full-ui-template
 <img width="298" height="859" alt="Screenshot 2025-08-05 194819" src="https://github.com/user-attachments/assets/9929321f-3f4a-47cb-9f61-adb3a54d411a" />
-## user-view
+
+## User-view
 <img width="1663" height="950" alt="Screenshot 2025-08-05 194346" src="https://github.com/user-attachments/assets/58de3b7d-f22f-4aaf-8253-6dc5879f9797" />
 
 ## 🙌 Credits
