@@ -71,7 +71,7 @@ Reproduction or commercial use without permission is **not allowed**.
 ## 🙌 Credits
 
 > **Designed by:** S GURUPRASD  
-> Instagram: [@guru.ewe](https://www.instagram.com/guru.ewe)  
+> Instagram: [@guruu.ewe](https://www.instagram.com/guruu.ewe)  
 > Figma Portfolio: [Insert your link here]  
 > Year: 2025
 
