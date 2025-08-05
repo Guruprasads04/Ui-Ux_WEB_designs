@@ -5,7 +5,7 @@ This repository showcases a high-energy and bold web design for a **Hot Wheels-i
 ## 🔗 Live Figma Design
 
 **[View Prototype in Figma](#)**  
-*→ Replace this with your actual Figma link*
+*→ https://www.figma.com/proto/V2XEea9dulKyTCReiUy4wS/hot-wheels-web?page-id=0%3A1&node-id=3-3&p=f&viewport=-269%2C1775%2C0.29&t=hHpNSBxUaJgE4Ds1-1&scaling=scale-down&content-scaling=fixed*
 
 ---
 
